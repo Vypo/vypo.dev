@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Vypo&#x27;s Nest</title>
+        <link>https://vypo.dev</link>
+        <description>Yet another software blog that&#x27;ll probably never get updated.</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://vypo.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jan 2020 02:28:16 +0000</lastBuildDate>
+        
+            <item>
+                <title>The Mouse Himself</title>
+                <pubDate>Tue, 28 Jan 2020 02:28:16 +0000</pubDate>
+                <link>https://vypo.dev/00-introduction/</link>
+                <guid>https://vypo.dev/00-introduction/</guid>
+                <description>&lt;p&gt;Welcome to my little corner of the Internet. Somehow you&#x27;ve stumbled here (surprisingly) and decided to stick around long enough to read my introduction post.&lt;&#x2F;p&gt;
+&lt;p&gt;Congratulations.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m some kind of developer by day, and a &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Furry_fandom&quot;&gt;furry&lt;&#x2F;a&gt; mouse by night. My travels through computer science began humbly with games like &lt;a href=&quot;http:&#x2F;&#x2F;necrobones.com&#x2F;atrobots&#x2F;&quot;&gt;AT-Robots&lt;&#x2F;a&gt;, continued with a long detour in the C family of languages (C++, then C#, and much later, C itself), then a mostly forgettable jaunt with PHP and Clojure. More recently I&#x27;ve had a very pleasant time with Python, though my passion of the day is, by far, Rust.&lt;&#x2F;p&gt;
+&lt;p&gt;Since this seems to be turning into a resume of sorts, I have a bachelors of applied science in software engineering, and have been working in the field professionally for seven years or so.&lt;&#x2F;p&gt;
+&lt;p&gt;Some of my abandoned projects include &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Vypo&#x2F;builderdb&quot;&gt;fursuits.by&lt;&#x2F;a&gt;, a review and commission website for fursuits—insufferably warm mascot-like costumes. Actually that&#x27;s the only one I&#x27;ve published under this particular brand. Guess I&#x27;ll have to fix that!&lt;&#x2F;p&gt;
+&lt;p&gt;If you want to find me elsewhere (god forbid):&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;furaffinity.net&#x2F;user&#x2F;vypo&quot;&gt;FurAffinity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;vypo&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
